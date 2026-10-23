@@ -1,16 +1,28 @@
-## Hi there 👋
+Janmark Suelto
+I'm a BSIT graduate from the Philippines who builds web applications with React, TypeScript, Laravel, and PostgreSQL. I like working on tools that make everyday tasks simpler, from collaborative apps to interview practice. I'm also developing my skills in networking and IT support.
 
-<!--
-**RaizelHub/RaizelHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech stack
+- Frontend: React, TypeScript, JavaScript, Tailwind CSS
+- Backend: Laravel, PHP, Node.js, Express
+- Databases: PostgreSQL, MySQL, MongoDB
+- Other tools: Python, Git, GitHub, Cisco Packet Tracer
+Selected projects
+CollabCanvas
 
-Here are some ideas to get you started:
+A TypeScript-based collaborative canvas project focused on shared workspaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vocara
+
+An interview practice application built to help people prepare and improve their responses.
+
+Student Management System
+
+A student records management project built with C#/.NET and SQL Server.
+GitHub activity
+The README includes collapsible GitHub statistics and most-used programming languages.
+Find me
+ Portfolio
+
+ LinkedIn
+
+ GitHub
