@@ -21,8 +21,9 @@ A student records management project built with C#/.NET and SQL Server.
 GitHub activity
 The README includes collapsible GitHub statistics and most-used programming languages.
 Find me
- Portfolio
 
- LinkedIn
+ Portfolio -https://janmark-suelto.vercel.app
 
- GitHub
+ LinkedIn-https://www.linkedin.com/in/janmark-suelto-4ba21a400
+
+ GitHub-https://github.com/RaizelHub
