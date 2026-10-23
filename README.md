@@ -1,29 +1,37 @@
-Janmark Suelto
-I'm a BSIT graduate from the Philippines who builds web applications with React, TypeScript, Laravel, and PostgreSQL. I like working on tools that make everyday tasks simpler, from collaborative apps to interview practice. I'm also developing my skills in networking and IT support.
+# Janmark Suelto
 
-Tech stack
-- Frontend: React, TypeScript, JavaScript, Tailwind CSS
-- Backend: Laravel, PHP, Node.js, Express
-- Databases: PostgreSQL, MySQL, MongoDB
-- Other tools: Python, Git, GitHub, Cisco Packet Tracer
-Selected projects
-CollabCanvas
+I'm a BSIT graduate based in the Philippines. I build web applications using React, TypeScript, Laravel, and PostgreSQL. My projects include collaborative web tools and interview practice applications. I'm also developing my skills in networking and IT support.
 
-A TypeScript-based collaborative canvas project focused on shared workspaces.
+## Tech stack
 
-Vocara
+- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** Laravel, PHP, Node.js, Express
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, GitHub, Python, Cisco Packet Tracer
 
-An interview practice application built to help people prepare and improve their responses.
+## Selected projects
 
-Student Management System
+### [CollabCanvas](https://github.com/RaizelHub/collab-canvas)
+A collaborative canvas application built with TypeScript for working in shared spaces.
 
+### [Vocara](https://github.com/RaizelHub/vocara)
+An interview practice application designed to help job seekers prepare and improve their responses.
+
+### [Student Management System](https://github.com/RaizelHub/Student-Management-System)
 A student records management project built with C#/.NET and SQL Server.
-GitHub activity
-The README includes collapsible GitHub statistics and most-used programming languages.
-Find me
 
- Portfolio -https://janmark-suelto.vercel.app
+## GitHub stats
 
- LinkedIn-https://www.linkedin.com/in/janmark-suelto-4ba21a400
+<details>
+<summary>View activity and languages</summary>
 
- GitHub-https://github.com/RaizelHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaizelHub&show_icons=true&hide_border=true)
+
+![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaizelHub&layout=compact&hide_border=true)
+
+</details>
+
+## Contact
+
+- [Portfolio](https://janmark-suelto.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/janmark-suelto-4ba21a400/)
